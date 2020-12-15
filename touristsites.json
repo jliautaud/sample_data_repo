@@ -1,4 +1,5 @@
-  "TouristSite": [
+{ 
+"TouristSite": [
     {  "siteName": "Great Mall",
       "siteDescription": "The great mall is one of the biggest malls in the Area. IT hosts over 25 unique resturants and 50 stores",
       "rating": "9.5",
