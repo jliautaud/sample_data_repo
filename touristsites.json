@@ -1,0 +1,20 @@
+  "TouristSite": [
+    {  "siteName": "Great Mall",
+      "siteDescription": "The great mall is one of the biggest malls in the Area. IT hosts over 25 unique resturants and 50 stores",
+      "rating": "9.5",
+      "siteImage":"http://clipart-library.com/img/779154.jpg"}, 
+    {  "siteName": "University of State Arena",
+      "siteDescription": "The university of state arena hosts a variety of events such as basketball games to esports tournaments",
+      "rating": "8.4",
+      "siteImage":"http://clipart-library.com/image_gallery/127592.png"}, 
+    {  "siteName": "The Theatre Center",
+      "siteDescription": "THe theatre center provides entertainment in its plays, musicals and screenings of classic films ",
+      "rating": "9.1",
+      "siteImage":"hhttp://clipart-library.com/data_images/120262.jpg"},
+    { "siteName": "Concert Hall",
+      "siteDescription": "A famous Concert Venue known for hosting local to global talent",
+      "rating": "9.2"
+     }
+  ],
+  "Status": "Ok"
+}
